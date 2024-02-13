@@ -1,5 +1,5 @@
 
-### hello! I'm Carlos Hipolito! Welcome! I'm java developer beginner and here they're my codes, exercises and projects🖐️
+### hello! I'm Carlos Hipolito! Welcome! I'm a java developer and here are my codes, exercises and projects🖐️
 
 
 
