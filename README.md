@@ -6,7 +6,7 @@
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=Carloshipol&show_icons=true&theme=tokyonight)
 
-## Technologies and skills that I use in my daily life and my studyes
+## Technologies and skills that I use in my daily life and my studies
 
 <div style="display: inline_block"><br/>
 <img align="center" alt ="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
