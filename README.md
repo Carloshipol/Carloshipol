@@ -20,9 +20,9 @@
 </div><br/>
 
 ## Projects
-1° https://github.com/Carloshipol/workshop-springboot-jpa
+1° [Workshop-springboot-jpa](https://github.com/Carloshipol/workshop-springboot-jpa)
 
-2º https://github.com/Carloshipol/demo-dao-jdbc
+2º [demo-dao-jdbc](https://github.com/Carloshipol/demo-dao-jdbc)
 
 ## Contacts
 
